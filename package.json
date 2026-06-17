@@ -1,0 +1,9 @@
+{
+  "name": "chain-of-judgment",
+  "version": "2.0.0",
+  "description": "Full 3D multiplayer anatomy quiz runner — Hell to Heaven",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "build": "echo no-build" },
+  "dependencies": { "express": "^4.18.2", "socket.io": "^4.6.1" },
+  "engines": { "node": ">=18.0.0" }
+}
